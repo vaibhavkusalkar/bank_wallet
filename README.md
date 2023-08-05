@@ -26,7 +26,7 @@ Follow the steps properly -
 
 - Clone Repository
 ```bash
-  git clone https://github.com/vaibhavkusalkar/bank_wallet
+  gh repo clone vaibhavkusalkar/bank_wallet
 ```
 - Get into the Main folder (i.e bank_wallet)
 ```bash
