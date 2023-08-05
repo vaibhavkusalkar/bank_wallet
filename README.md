@@ -1,5 +1,5 @@
-# bank_wallet
- A Wallet based Payment App UI.\
+# A Bank Wallet App
+ A Wallet based Payment App UI using Flutter\
  \
  It has Debit/Credit Cards Stored in it through which payment is made.
  
